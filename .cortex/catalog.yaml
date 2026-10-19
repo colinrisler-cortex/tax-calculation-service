@@ -1,0 +1,12 @@
+openapi: "3.0.0"
+info:
+  title: "tax-calculation-service"
+  x-cortex-tag: "tax-calculation-service"
+  x-cortex-description: "Real-time sales tax computation"
+  x-cortex-owners:
+    - type: group
+      name: "POS & Store Systems Team"
+  x-cortex-custom-metadata:
+    apm_id: "apm0001301"
+    apm_name: "Point of Sale Platform"
+    cost_center: "CC-4310"
